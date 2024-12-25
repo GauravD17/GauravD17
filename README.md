@@ -1,4 +1,4 @@
-Designer and Developer. 
+Full-stack web developer
 deoregaurav2001@gmail.com 
 <!---
 GauravD17/GauravD17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
